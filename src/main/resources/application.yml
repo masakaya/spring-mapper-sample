@@ -1,0 +1,8 @@
+orika:
+  enable: false
+  captureFieldContext: false
+  dumpStateOnException: true
+  favorExtension: true
+  mapNulls: true
+  useAutoMapping: true
+  useBuiltinConverters: true
